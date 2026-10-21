@@ -1,0 +1,120 @@
+{
+ "files": [
+  "OPERA_L3_DSWx-S1_T17SKB_20250217T234000Z_20250221T055027Z_S1A_30_v1.0_B01_WTR.tif",
+  "OPERA_L3_DSWx-S1_T16SGG_20250217T234000Z_20250221T055027Z_S1A_30_v1.0_B01_WTR.tif"
+ ],
+ "sensing_utc": "2025-02-17T23:39:55Z/2025-02-17T23:40:03Z",
+ "est": "2025-02-17 18:40:00",
+ "track": "121",
+ "overlap_agreement_all": 0.9998,
+ "overlap_agreement_water": 0.9999,
+ "gauges": [
+  {
+   "name": "Kentucky R. at Lock 12 near Irvine",
+   "lon": -83.95,
+   "lat": 37.68,
+   "fs": 21,
+   "crest_t": "2025-02-18 03:05:00",
+   "crest": 36.96,
+   "at_pass": 36.55,
+   "imaged": true,
+   "pixel": 0,
+   "hours_pass_minus_crest": -8.42
+  },
+  {
+   "name": "Kentucky R. at Lock 14, Heidelberg",
+   "lon": -83.77,
+   "lat": 37.55,
+   "fs": 20,
+   "crest_t": "2025-02-17 07:30:00",
+   "crest": 31.24,
+   "at_pass": 29.87,
+   "imaged": false,
+   "pixel": 255,
+   "hours_pass_minus_crest": 11.17
+  },
+  {
+   "name": "N. Fork Kentucky R. at Jackson",
+   "lon": -83.38,
+   "lat": 37.55,
+   "fs": 29,
+   "crest_t": "2025-02-16 20:30:00",
+   "crest": 37.71,
+   "at_pass": 32.51,
+   "imaged": false,
+   "pixel": 255,
+   "hours_pass_minus_crest": 22.17
+  }
+ ],
+ "coverage": [
+  {
+   "label": "T16SFH  Apr 6",
+   "tile": "16SFH",
+   "date": "20250406",
+   "track": "121",
+   "coverage": 99.9888,
+   "bursts": "42/42",
+   "ls_pct": 0.016,
+   "imaged_pct_from_pixels": 99.99
+  },
+  {
+   "label": "T16SGH  Apr 6",
+   "tile": "16SGH",
+   "date": "20250406",
+   "track": "121",
+   "coverage": 54.017,
+   "bursts": "42/42",
+   "ls_pct": 0.0109,
+   "imaged_pct_from_pixels": 54.02
+  },
+  {
+   "label": "T16SFH  Apr 13",
+   "tile": "16SFH",
+   "date": "20250413",
+   "track": "48",
+   "coverage": 24.0767,
+   "bursts": "39/39",
+   "ls_pct": 0.1666,
+   "imaged_pct_from_pixels": 24.08
+  },
+  {
+   "label": "T16SGG  Feb 17",
+   "tile": "16SGG",
+   "date": "20250217",
+   "track": "121",
+   "coverage": 29.6796,
+   "bursts": "15/41",
+   "ls_pct": 0.0612,
+   "imaged_pct_from_pixels": 29.68
+  },
+  {
+   "label": "T17SKB  Feb 17",
+   "tile": "17SKB",
+   "date": "20250217",
+   "track": "121",
+   "coverage": 16.3649,
+   "bursts": "15/41",
+   "ls_pct": 0.0224,
+   "imaged_pct_from_pixels": 16.36
+  }
+ ],
+ "zoom": {
+  "box_utm17": [
+   228000,
+   250000,
+   4164000,
+   4186000
+  ],
+  "imaged_pct": 72.4,
+  "open_km2": 7.32,
+  "iv_km2": 0.99
+ },
+ "imaged_km2": {
+  "T16SGG": 3578.0,
+  "T17SKB": 1973.0
+ },
+ "water_km2": {
+  "T16SGG": 28.9,
+  "T17SKB": 16.0
+ }
+}

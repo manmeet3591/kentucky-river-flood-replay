@@ -18,3 +18,7 @@ This is a research replay of past floods, not a forecast or warning. For current
 Manmeet Singh and M. M. Nabi, Disaster Science Operations Center, Western Kentucky University.
 
 The page is a single self-contained `index.html`: the maps and data are embedded, and only the fonts load from Google Fonts.
+
+## Data files
+
+The gauge records, satellite map layers, overlays and statistics used on the page are in [`data/`](data/), with sources and attributions in [`data/README.md`](data/README.md).

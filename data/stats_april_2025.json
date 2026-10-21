@@ -1,0 +1,60 @@
+{
+ "files": [
+  "OPERA_L3_DSWx-S1_T16SFH_20250406T234025Z_20250407T102148Z_S1A_30_v1.0_B01_WTR.tif",
+  "OPERA_L3_DSWx-S1_T16SFH_20250413T233211Z_20250414T133032Z_S1A_30_v1.0_B01_WTR.tif"
+ ],
+ "sensing_utc": [
+  "2025-04-06T23:40:00Z/2025-04-06T23:40:23Z",
+  "2025-04-13T23:31:53Z/2025-04-13T23:32:12Z"
+ ],
+ "track": [
+  "121",
+  "48"
+ ],
+ "spatial_coverage_pct": [
+  99.9888,
+  24.0767
+ ],
+ "edt": [
+  "2025-04-06 19:40:00",
+  "2025-04-13 19:32:00"
+ ],
+ "stage_ft": [
+  47.97,
+  11.36
+ ],
+ "hours_before_crest": 9.3,
+ "days_after_crest": 6.61,
+ "tile": {
+  "water_A_km2": 181.57,
+  "water_B_km2": 20.03,
+  "common_imaged_km2": 2897.15,
+  "water_A_common": 25.52,
+  "water_B_common": 19.88,
+  "flood_only": 9.43,
+  "both_dates": 16.08,
+  "B_only": 3.79,
+  "flood_only_openwater": 8.43,
+  "B_only_openwater": 0.87
+ },
+ "zoom": {
+  "box_utm16": [
+   678000,
+   695300,
+   4226000,
+   4256000
+  ],
+  "area_km2": 519.0,
+  "B_not_imaged_pct": 35.8,
+  "common_imaged_km2": 331.51,
+  "water_A": 6.57,
+  "water_B": 1.9,
+  "open_A": 6.23,
+  "iv_A": 0.33,
+  "open_B": 0.99,
+  "iv_B": 0.92,
+  "flood_only": 5.56,
+  "both_dates": 1.01,
+  "B_only": 0.89
+ }
+}
